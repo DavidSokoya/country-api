@@ -839,8 +839,8 @@ let naijaStates = {
         "governor" : "Ademola Nurudeen Adeleke"
     },
     "oyo" : {
-        "name" : "",
-        "capital" : "	Pace Setter State",
+        "name" : "Oyo",
+        "capital" : "Ibadan",
         "slogan" : "Pace Setter State",
         "lgas" : [
             "Afijio",
