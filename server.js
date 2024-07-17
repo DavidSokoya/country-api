@@ -1037,6 +1037,13 @@ let naijaStates = {
         "Zurmi"
       ],
     "governor" : "Dauda lawal"
+  },
+  "unknown" : {
+    "name" : "unknown",
+    "capital" : "unknown",
+    "slogan" : "unknowne",
+    "lgas" : [],
+    "governor" : "unknown"
   }
 }
 
