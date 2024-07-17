@@ -667,7 +667,7 @@ let naijaStates = {
     "lagos" : {
         "name" : "Lagos",
         "capital" : "Ikeja",
-        "slogan" : "Babajide Olusola Sanwo-Olu",
+        "slogan" : "State of Excellence",
         "lgas" : [
             "Agege",
             "Ajeromi-Ifelodun",
